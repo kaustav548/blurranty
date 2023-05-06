@@ -1,1 +1,1 @@
-# blurranty
+# blurranty : open cv blurring tool
